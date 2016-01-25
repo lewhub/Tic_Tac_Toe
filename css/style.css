@@ -1,0 +1,19 @@
+h1 {
+  font-size: 50px;
+}
+body {
+  background-color: #099999;
+}
+#board {
+  margin: 0 auto;
+  height: 500px;
+  max-width: 500px;
+}
+div {
+  float: left;
+  width: 100px
+  height: 100px;
+}
+div:nth-child(1),nth-child(2) {
+  border-right: 5px solid black;
+}
