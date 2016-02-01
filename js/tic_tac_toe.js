@@ -99,5 +99,3 @@ function checkForWinner() {
               winner = 'inpr'
             }
 }
-// this is a test comment
-// to demonstrate what happens when you switch branches
